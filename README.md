@@ -76,7 +76,7 @@ This assignment is for **portone.io**, This is an online accept the payment (pay
 click here to see in the [Postman](https://www.postman.com/material-geologist-27820143/workspace/stripe-paymen-gateway).
 
 ### Deploy Link
-[Click here]([http://34.0.8.234:402/swagger-ui/index.html](https://portone-hiring-assignment-production.up.railway.app/)) to see deploy in RailwayApp.
+[Click here]([http://34.0.8.234:402/swagger-ui/index.html](https://portone-hiring-assignment-production.up.railway.app/) to see deploy in RailwayApp.
 
 ## Screenshot
 
