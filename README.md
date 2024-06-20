@@ -81,22 +81,19 @@ click here to see in the [Postman](https://www.postman.com/material-geologist-27
 ## Screenshot
 
 ### PostMan UI Page
-<img src="Images/Screenshot 2024-06-19 230953.png" alt="Postman UI" />
+<img src="Images/Screenshot 2024-06-20 124347.png" alt="Postman UI create payment" />
 
 ### Payment Intent Parameter
-<img src="Images/Screenshot 2024-06-19 231029.png" alt="Payment Intent Create" />
+<img src="Images/Screenshot 2024-06-20 124347.png" alt="Payment Intent Create" />
 
 ### Payment Capture Parameter
-<img src="Images/Screenshot 2024-06-19 231252.png" alt="Payment capture Create" />
+<img src="Images/Screenshot 2024-06-20 124405.png"Payment capture Create" />
 
 ### Refund Payment Parameter
-<img src="Images/Screenshot 2024-06-19 231204.png" alt="Refund Payment Create" />
+<img src="Images/Screenshot 2024-06-20 124438.png" alt="Refund Payment Create" />
 
-### Response Body
-<img src="images/Successfull response.PNG" alt="Successfull response" />
-
-### Schemas
-<img src="images/Schemas.PNG" alt="Schemas" />
+### Get All Payments
+<img src="Images/Screenshot 2024-06-20 124504.png" alt="Successfull response" />
 
 Links to GitHub code with setup/exec instructions in Readme
 Link to Postman collection for the APIs
